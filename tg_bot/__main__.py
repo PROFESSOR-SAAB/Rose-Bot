@@ -23,7 +23,7 @@ HELLO {}, MY NAME IS {}! IT IS COOL ADMIN BOT THAT I RUN [HE](tg://user?id={}).
 
 MAIN WAS A BUILD python3 USING THE python-telegram-bot LIBRARY. I AM A FULLY OPENSOURCED. 
 
-MADE BY :- @PROFESSOR SAAB
+MADE BY :- @PROFFASER_SAAB
 
 See /help for commands and more details.
 
